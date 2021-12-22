@@ -1,0 +1,7 @@
+# Ignore explanation files
+.README_fig.md
+.README.md
+.style-guide.md
+
+#Ignore Mac system files
+.DS_store
