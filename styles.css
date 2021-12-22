@@ -1,0 +1,57 @@
+
+body {
+    background-color: #0D192C;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.main {
+    background-color: #15263F;
+    position: absolute;
+    width: 350px;
+    height: 596px;
+    left: 545px;
+    top: 152px;
+
+}
+
+.img {
+    text-align: center;
+    width: 278px;
+    height: 278px;
+    padding: 24px;
+}
+
+img {  
+    max-width: 100%;  
+    height: auto;  
+    }  
+
+.content {
+    position: relative;
+
+}
+
+.line {
+    position: relative;
+    background-color: #2E405A;
+}
+
+h1 {
+    color: #FFFFFF;
+
+}
+
+/* 
+
+<div class="img"></div>
+<div class="content"></div>
+<div class="stats"></div>
+<div class="footer"></div>
+
+ 
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style> */
